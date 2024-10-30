@@ -31,7 +31,6 @@ jobs:
           python rename_package.py
           python setup.py sdist bdist_wheel
           twine upload dist/*
-
       - name: Create GitHub release
         uses: softprops/action-gh-release@v2
         with:
