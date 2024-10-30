@@ -1,5 +1,5 @@
 # release_and_deploy
-name: Release and Deploy-test
+name: Release_to_pypi
 
 on:
   push:
