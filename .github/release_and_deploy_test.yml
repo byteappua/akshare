@@ -4,7 +4,7 @@ name: Release and Deploy
 on:
   push:
     branches:
-      - main
+      - byteapp-akshare
 
 jobs:
   deploy:
