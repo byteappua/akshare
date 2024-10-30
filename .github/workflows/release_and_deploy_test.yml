@@ -1,5 +1,5 @@
 # release_and_deploy
-name: Release and Deploy
+name: Release and Deploy-test
 
 on:
   push:
